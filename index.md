@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me ? **Reach Me On Telegram on [Here](https://t.me/spidyuserbot)**
+- 📫 How to reach me ? **Reach Me On Telegram on [Here](https://telegram.dog/spidyuserbot)**
 
 - ⚡ Fun fact **I Think I am Noob**
 
