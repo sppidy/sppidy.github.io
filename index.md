@@ -21,3 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sppidy&layout=compact&theme=radical&show_icons=true" alt="sppidy" /></p>
 
+<meta name="yandex-verification" content="7784deebaca3345a" />
